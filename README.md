@@ -30,7 +30,7 @@ wget https://github.com/UNO-IST-Support/ISTPrinter_for_Linux/raw/master/KMbeuUXv
 
 You will need to unpack this file by either using the archive software on your OS, or running the following commands in a terminal. Please note that you will need to have the terminal window sitting in the same location as the file. To see if it is, type ls and you will get a list of files in that directory.
 
-3. Once you find the file location, please run the following commands as sudo/root:
+3. Once you find the file location, please run the following commands as sudo/root:   
 sudo apt install smbclient   
 sudo apt install cups   
 
