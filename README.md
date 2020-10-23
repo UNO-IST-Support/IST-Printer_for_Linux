@@ -67,7 +67,7 @@ In the SMB Printer field, type 'printers/ISTPrinter' without the quotes.
 In the user field, you will put your UNO NetID (example is if your NetID is jsmith, you will enter UNOMAHA\\jsmith)
 In the password field, put your UNO NetID Password. then click forward
 
-![samba](pictures/samba2.png)
+![samba](pictures/samba2.PNG)
 
 After that, you will choose 'Provide .ppd file' and go to the directory with the extracted tar.gz. Select KMbeu754ux.ppd and continue.
 
