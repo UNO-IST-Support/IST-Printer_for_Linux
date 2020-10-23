@@ -1,5 +1,5 @@
 # Adding the ISTPrinter on a Linux Machine
-Note: This was written for Ubuntu 18 with GUI. Your install may vary if using a different Linux or command line only.
+Note: This was written for Ubuntu 18 and 20 with GUI. Your install may vary if using a different Linux or command line only.
 YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WHEN USING WIFI OR FROM OFF CAMPUS FOR THIS TO WORK
 
 ### Option One - Script install
@@ -64,8 +64,9 @@ system-config-printer
 
 You will need to click the dropdown for network printers, select add, and choose Windows Printer via SAMBA.
 In the SMB Printer field, type 'printers/ISTPrinter' without the quotes.
+To set your authentification details now, you can.
 In the user field, you will put your UNO NetID (example is if your NetID is jsmith, you will enter UNOMAHA\\jsmith)
-In the password field, put your UNO NetID Password. then click forward
+In the password field, put your UNO NetID Password. You will need to click the "Set auth details now" button, then click forward
 
 ![samba](pictures/samba2.PNG)
 
