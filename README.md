@@ -63,11 +63,11 @@ When the next thing pops up, make sure to install the KMbeuC754ux.ppd. Space wil
 system-config-printer
 
 You will need to click the dropdown for network printers, select add, and choose Windows Printer via SAMBA.
-In the SMB Printer field, type 'printers.ist.unomaha.edu/ISTPrinter' without the quotes.
+In the SMB Printer field, type 'printers/ISTPrinter' without the quotes.
 In the user field, you will put your UNO NetID (example is if your NetID is jsmith, you will enter UNOMAHA\\jsmith)
 In the password field, put your UNO NetID Password. then click forward
 
-![samba](pictures/samba.PNG)
+![samba](pictures/samba2.png)
 
 After that, you will choose 'Provide .ppd file' and go to the directory with the extracted tar.gz. Select KMbeu754ux.ppd and continue.
 
