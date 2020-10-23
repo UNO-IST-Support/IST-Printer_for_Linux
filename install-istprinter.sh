@@ -18,7 +18,7 @@ tar -xvzf ~/Desktop/KMbeuUXv1_17_multi_language.tar.gz -C ~/Desktop/
 /etc/init.d/cups restart
 echo "#################################################################################"
 echo "The next step will require more user input. You will need to click the dropdown for network printers, select add, and choose Windows Printer via SAMBA."
-echo "In the SMB Printer field, type 'printers.ist.unomaha.edu/ISTPrinter' without the quotes."
+echo "In the SMB Printer field, type 'printers/ISTPrinter' without the quotes."
 echo "In the user field, you will put your UNO NetID (example is if your NetID is jsmith, you will enter UNOMAHA\\jsmith)"
 echo "In the password field, put your UNO NetID Password. then click forward"
 echo "After that, you will choose 'Provide .ppd file' and go to the directory with the extracted tar.gz. Select KMbeu754ux.ppd and continue."
