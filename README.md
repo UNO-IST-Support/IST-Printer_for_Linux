@@ -9,7 +9,7 @@ wget https://github.com/UNO-IST-Support/ISTPrinter_for_Linux/raw/master/install-
 
 Once you have downloaded that script, run the command in a terminal window that is in the same location as the downloaded script as root/sudo. This script still follows the manual install instructions, just makes it less typing for you.
 
-sudo bash install.istprinter.sh
+sudo bash install-istprinter.sh
 
 
 ### Option Two - Manual Install
