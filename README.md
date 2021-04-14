@@ -2,17 +2,7 @@
 Note: This was written for Ubuntu 18 and 20 with GUI. Your install may vary if using a different Linux or command line only.
 YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WHEN USING WIFI OR FROM OFF CAMPUS FOR THIS TO WORK
 
-### Option One - Script install
-We wrote a script that will go through all the steps of installing the printer for you, but it will still require occasional input. You can get the script named "install-istprinter.sh" from here using terminal if you download the whole repository:
-
-wget https://github.com/UNO-IST-Support/ISTPrinter_for_Linux/raw/master/install-istprinter.sh
-
-Once you have downloaded that script, run the command in a terminal window that is in the same location as the downloaded script as root/sudo. This script still follows the manual install instructions, just makes it less typing for you.
-
-sudo bash install-istprinter.sh
-
-
-### Option Two - Manual Install
+### Manual Install
 
 1. You will want to stop auto printer installs so you don't have every printer from the network on your system. We will be running the following command in a terminal window.
 
