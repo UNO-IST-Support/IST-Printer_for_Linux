@@ -1,4 +1,4 @@
-# Adding the ISTPrinter on a Linux Machine
+# Adding the IST-Printer on a Linux Machine
 Note: This was written for Ubuntu 18 and 20 with GUI. Your install may vary if using a different Linux or command line only.
 YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WHEN USING WIFI OR FROM OFF CAMPUS FOR THIS TO WORK
 
