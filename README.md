@@ -21,8 +21,7 @@ or can use the command to download it to your home directory:
 You will need to unpack this file by either using the archive software on your OS, or running the commands in Step 3 in a terminal. Please note that you will need to have the terminal window sitting in the same location as the file. To see if it is, type ls and you will get a list of files in that directory.
 
 3. Once you find the file location, please run the following commands as sudo/root:   
-`sudo apt install smbclient`
-<br/>
+`sudo apt install smbclient` <br/>
 `sudo apt install cups`   
 
 ![smb_cups](pictures/smb_cups.PNG)
