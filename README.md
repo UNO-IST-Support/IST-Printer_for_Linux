@@ -53,7 +53,7 @@ When the next thing pops up, make sure to install the Sharp-MX-7580-ps.ppd. Type
 `system-config-printer`
 
 You will need to click the dropdown for network printers, select add, and choose Windows Printer via SAMBA.
-In the SMB Printer field, type `oist-printers.unomaha.edu/IST-Printer`
+In the SMB Printer field, type `oist-printers.unomaha.edu/IST-Printer`.
 You will need to set authentification details.
 In the user field, you will put your UNO NetID (example is if your NetID is jsmith, you will enter UNOMAHA\\jsmith)
 In the password field, put your UNO NetID Password. You will need to click the `Set auth details now` button, then click forward
