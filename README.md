@@ -34,7 +34,7 @@ You will need to unpack this file by either using the archive software on your O
 This next step may require you to cd into the extracted directory.
 When the next thing pops up, make sure to install the Sharp-MX-7580-ps.ppd. Type yes and hit enter. Then do this again for the legal acceptance.
 
-`sudo ./mx-c52-ps.install and choose Sharp-MX-7580-ps.ppd`
+`sudo ./mx-c52-ps.install` and choose Sharp-MX-7580-ps.ppd
 
 ![install_pl](pictures/install.PNG)
 
