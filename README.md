@@ -22,6 +22,7 @@ You will need to unpack this file by either using the archive software on your O
 
 3. Once you find the file location, please run the following commands as sudo/root:   
 `sudo apt install smbclient`
+<br/>
 `sudo apt install cups`   
 
 ![smb_cups](pictures/smb_cups.PNG)
