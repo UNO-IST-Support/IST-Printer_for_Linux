@@ -44,13 +44,13 @@ When the next thing pops up, make sure to install the Sharp-MX-7580-ps.ppd. Type
 
 ![ppd2](pictures/confirm2.PNG)
 
-`/etc/init.d/cups restart`
+`sudo /etc/init.d/cups restart`
 
 ![cups_restart](pictures/cupsRestart.PNG)
 
 4. The next command listed will require more user input.
 
-`system-config-printer`
+`sudo system-config-printer`
 
 You will need to click the dropdown for network printers, select add, and choose Windows Printer via SAMBA.
 In the SMB Printer field, type `oist-printers.unomaha.edu/IST-Printer`.
