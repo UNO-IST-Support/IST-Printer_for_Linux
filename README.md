@@ -10,7 +10,7 @@ YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WHEN USI
 
 ![systemctl](pictures/systemctl.PNG)
 
-2. Next, we will need to download the printer driver, which can be found at this link:
+2. Next, we will need to download the printer driver, which can be found at this link (won't work, repo is private. Will have to download manually from repo logged in as uno-ist-support):
 https://github.com/UNO-IST-Support/ISTPrinter_for_Linux/raw/master/sharp-1.6-mx-c52-ps.tar.gz
 
 or can use the command to download it to your home directory:
